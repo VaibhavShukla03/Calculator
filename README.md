@@ -1,4 +1,4 @@
-#Basic Calculator
+# Basic Calculator <br>
 This is a basic calculator implemented in JavaScript. The calculator has buttons for numbers, operators, equals, AC (all clear), and DEL (delete).
 
 # How it works
